@@ -9,7 +9,7 @@
   const task = $('#task');
   let storageMessage = '';
   if (!data || !Array.isArray(data.stages) || !data.stages.length) {
-    task.innerHTML = '<h2>Приключение пока недоступно</h2><p>Не удалось загрузить материалы урока. Попробуйте обновить страницу. Ваш сохранённый прогресс не удалён.</p><a href="index.html>К диагностике</a>';
+    task.innerHTML = '<h2>Приключение пока недоступно</h2><p>Не удалось загрузить материалы урока. Попробуйте обновить страницу. Ваш сохранённый прогресс не удалён.</p><a href="../index.html">К диагностике</a>';
     return;
   }
   const stages = data.stages;

@@ -416,7 +416,7 @@
       <h2 lang="en" tabindex="-1">${finished ? 'Great work today!' : `Lesson ${LESSON_WORD} so far`}</h2>
       <div class="report-intro"><strong>${done} / ${all.length} шагов пройдено</strong>
         <p>Самостоятельно с первой попытки: ${independent} из ${graded.length} заданий с проверкой. Это наблюдение, а не оценка.</p></div>
-      <div class="link-row"><a class="btn primary" href="lesson-3/words.html>Слова</a>${finished ? button('Ещё раз посмотреть урок', 'report-return') : button('Продолжить с первого непройденного →', 'report-continue', '', 'primary')}${button('Скачать JSON', 'export')}</div>
+      <div class="link-row"><a class="btn primary" href="./words.html">Слова</a>${finished ? button('Ещё раз посмотреть урок', 'report-return') : button('Продолжить с первого непройденного →', 'report-continue', '', 'primary')}${button('Скачать JSON', 'export')}</div>
       ${stageReports}
       <p><small>Прогресс хранится только на этом устройстве. ${TRANSIENT.includes(storageMessage) ? 'Сохранение недоступно — обязательно скачайте JSON.' : 'JSON включает ответы, попытки и заметки.'}</small></p>`;
   }
