@@ -1,0 +1,948 @@
+{
+  "schemaVersion": 1,
+  "scenes": {
+    "rabbit": {
+      "path": "../images/rabbit.jpg",
+      "width": 600,
+      "height": 491,
+      "sha256": "ad5d5bda6028f7c70c9d852b530fb54172b390da78f496d24645eac43a75679e",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "semantic": "Owner-supplied rabbit photograph outdoors.",
+      "approved_by": "Main visual inspection",
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified"
+    },
+    "train": {
+      "path": "../images/train.jpg",
+      "width": 600,
+      "height": 449,
+      "sha256": "073f45fbc233a74dc91221faa5195da65aa46a14e23408a962f0a75894066be0",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "semantic": "Modern red/yellow train at a railway station; original owner-supplied photograph.",
+      "approved_by": "Main visual inspection",
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified"
+    },
+    "table": {
+      "path": "../images/table.jpg",
+      "width": 600,
+      "height": 337,
+      "sha256": "608a5c5228833d5374ca11e071e07a7a49fb1038e3dbadda8ccb02c5d6193df4",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "semantic": "Rectangular wooden table on a white background; original owner-supplied photograph.",
+      "approved_by": "Main visual inspection",
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified"
+    },
+    "draw": {
+      "path": "images/drawHome.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "b5acabba30ee1a1fcb2f11af8b55496953381a7224fc2e7a280d1cc7174e8bb5",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/girl-drawing-on-a-paper-7025504/",
+        "download_url": "https://images.pexels.com/photos/7025504/pexels-photo-7025504.jpeg?w=1200",
+        "author": "Vlada Karpovich",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized and converted to WebP"
+      },
+      "source": "https://www.pexels.com/photo/girl-drawing-on-a-paper-7025504/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Overhead view of a schoolgirl drawing a colourful picture with a pencil at a home art table.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "homework": {
+      "path": "images/homework.webp",
+      "width": 444,
+      "height": 368,
+      "sha256": "2749394a0d53b859df213207195092e11278388f7b3f3c460bbc9a247cf2a8d0",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Girl Mia writing elementary maths in flat notebook; no art/reading",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "homeworkGroup": {
+      "path": "images/homeworkGroup.webp",
+      "width": 684,
+      "height": 768,
+      "sha256": "1aada1b81168585c8153aab70eb7bb80103ad26c283ce2c71b07c0ca5401f6d5",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Two pupils both writing separate maths exercise notebooks",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "climb": {
+      "path": "images/climbPark.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "92b235e4359091b4116ac00af6549b0fdcdce3720ddd7d6e3c86cf256d741885",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Red-check-shirt boy climbs low oak tree, both hands on trunk and both shoes on low branch in an upward-moving stance; full body and tree visible.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "kind": {
+      "path": "images/helpLibrary.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "aca494c598b85302880f605c0c5424c0f53ece55c634dbb7cec25fd7242afde3",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Mustard-shirt older boy crouches and hands a fallen blue book to younger child with backpack; scattered closed books establish helping pick up books.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "find": {
+      "path": "images/find.webp",
+      "width": 685,
+      "height": 380,
+      "sha256": "41af646c2e9c1281bd682a0507a0f2d4d7c2acef23c7d2e9b6f8d5c4b1a78b5c",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Child discovers and picks up lost blue pencil under chair",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "now": {
+      "path": "images/run.webp",
+      "width": 500,
+      "height": 750,
+      "sha256": "100775c8352a9004455e83103ecf14e3da2768de384de660dcefa7afa10d6de1",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/boy-running-on-field-21705250/",
+        "download_url": "https://images.pexels.com/photos/21705250/pexels-photo-21705250.jpeg?cs=srgb&dl=pexels-justphotof-21705250.jpg&fm=jpg",
+        "author": "JustPhotof Photo & Video",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Black-and-white child running grassy field, source confirmed.",
+      "approved_by": "Main visual inspection",
+      "contextText": [
+        "NOW — СЕЙЧАС"
+      ],
+      "source": "https://www.pexels.com/photo/boy-running-on-field-21705250/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "room": {
+      "path": "images/room.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "a7c9822e4a6321e86f874c254d50125920d264410301573a17520e6304c8eb7f",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Rabbit directly under wooden table; separate chair/bed/toytrain; accepted exact hitboxes",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "watch": {
+      "path": "images/watch.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "808095f37d8b85046fce2432b172c600afbcd670d946c687ee4a921b98335588",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/a-father-and-boy-watching-on-the-tv-6557551/",
+        "download_url": "https://images.pexels.com/photos/6557551/pexels-photo-6557551.jpeg?cs=srgb&dl=pexels-cottonbro-6557551.jpg&fm=jpg",
+        "author": "cottonbro studio",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "VISUALLY VERIFIED visible TV with hockey and father+boy backs. Conditional: not boy alone; crop Commons watchGroup might be cleaner.",
+      "approved_by": "Main visual inspection",
+      "source": "https://www.pexels.com/photo/a-father-and-boy-watching-on-the-tv-6557551/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "watchGroup": {
+      "path": "images/watchGroup.webp",
+      "width": 684,
+      "height": 706,
+      "sha256": "07661685de99fe258c56a6b6f391eb67686e4ea5486591be4348c155d4f0d6b8",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Three children faces not visible; all heads point towards clearly visible TV",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "football": {
+      "path": "images/football.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "fa56545fcbfd93d497d305ba6c1fa2546a5185e4f081249f98ef6027adb179a1",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://commons.wikimedia.org/wiki/File:Children_playing_soccer.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Children_playing_soccer.jpg",
+        "author": "Bill Branson / National Cancer Institute",
+        "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Source explicitly two boys in uniforms dribbling football across field; public-domain US government work.",
+      "approved_by": "Main visual inspection",
+      "source": "https://commons.wikimedia.org/wiki/File:Children_playing_soccer.jpg",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "read": {
+      "path": "images/read.webp",
+      "width": 960,
+      "height": 640,
+      "sha256": "2a8a28c79c145dd9d9c559a1dec3de394b4770173e4d1ec2994e25ec562ef4a6",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://commons.wikimedia.org/wiki/File:Girl_reading_a_book_(15072194361).jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Girl_reading_a_book_%2815072194361%29.jpg",
+        "author": "Personal Creations",
+        "license": "https://creativecommons.org/licenses/by/2.0/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Girl reading a book, source title confirmed.",
+      "approved_by": "Main visual inspection",
+      "source": "https://commons.wikimedia.org/wiki/File:Girl_reading_a_book_(15072194361).jpg",
+      "rights": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    "readingGirls": {
+      "path": "images/readingGirls.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "7796dd1e74169e651d9d8cca81f747d9865e891f4e91fe0fc886039fc3061feb",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/attentive-diverse-schoolgirls-reading-textbooks-in-autumn-park-5896522/",
+        "download_url": "https://images.pexels.com/photos/5896522/pexels-photo-5896522.jpeg?cs=srgb&dl=pexels-mary-taylor-5896522.jpg&fm=jpg",
+        "author": "Mary Taylor",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Source explicitly two girls reading books outdoors.",
+      "approved_by": "Main visual inspection",
+      "source": "https://www.pexels.com/photo/attentive-diverse-schoolgirls-reading-textbooks-in-autumn-park-5896522/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "bike": {
+      "path": "images/bike.webp",
+      "width": 260,
+      "height": 325,
+      "sha256": "4922a18711d18b5306a494313216954acc5e2f10b60edc21e94ebb5648277f19",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://commons.wikimedia.org/wiki/File:A_child_rides_a_bike.jpg",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/A_child_rides_a_bike.jpg",
+        "author": "Nohafawzy",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "changes": "Resized/converted to WebP; bike cropped around rider and bicycle"
+      },
+      "semantic": "Child riding bike; source confirmed photographic contest entry.",
+      "approved_by": "Main visual inspection",
+      "source": "https://commons.wikimedia.org/wiki/File:A_child_rides_a_bike.jpg",
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "music": {
+      "path": "images/music.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "07106ec813fef463b41911cf6571cce41afb254e8059613f400d85eec3f45c1c",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/photo-of-child-using-headphones-3891209/",
+        "download_url": "https://images.pexels.com/photos/3891209/pexels-photo-3891209.jpeg?cs=srgb&dl=pexels-olly-3891209.jpg&fm=jpg",
+        "author": "Andrea Piacquadio",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Girl enjoying music with headphones; genuine camera metadata Canon EOS 5DS, taken 2018.",
+      "approved_by": "Main visual inspection",
+      "source": "https://www.pexels.com/photo/photo-of-child-using-headphones-3891209/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "games": {
+      "path": "images/games.webp",
+      "width": 501,
+      "height": 750,
+      "sha256": "4b6ea1adcdf3923f4053894aa180ea500033101dc1e36cc8b7f0208abdff34a2",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/a-boy-playing-games-on-a-computer-10643464/",
+        "download_url": "https://images.pexels.com/photos/10643464/pexels-photo-10643464.jpeg?cs=srgb&dl=pexels-ron-lach-10643464.jpg&fm=jpg",
+        "author": "Ron Lach",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "VISUALLY VERIFIED boy at desktop, visible game on HP monitor; unmistakably desktop game, not tablet.",
+      "approved_by": "Main visual inspection",
+      "source": "https://www.pexels.com/photo/a-boy-playing-games-on-a-computer-10643464/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "write": {
+      "path": "images/write.webp",
+      "width": 1000,
+      "height": 750,
+      "sha256": "4168cd4dfbeb8364df7e7700e12d81ad1e768bf4451e5f7037561eea4870c377",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/photo-of-a-boy-writing-in-his-notebook-at-school-15891442/",
+        "download_url": "https://images.pexels.com/photos/15891442/pexels-photo-15891442.jpeg?cs=srgb&dl=pexels-bm-creatives-373679883-15891442.jpg&fm=jpg",
+        "author": "Bm Creatives",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Boy writing notebook at school; source confirmed.",
+      "approved_by": "Main visual inspection",
+      "source": "https://www.pexels.com/photo/photo-of-a-boy-writing-in-his-notebook-at-school-15891442/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "run": {
+      "path": "images/run.webp",
+      "width": 500,
+      "height": 750,
+      "sha256": "100775c8352a9004455e83103ecf14e3da2768de384de660dcefa7afa10d6de1",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/boy-running-on-field-21705250/",
+        "download_url": "https://images.pexels.com/photos/21705250/pexels-photo-21705250.jpeg?cs=srgb&dl=pexels-justphotof-21705250.jpg&fm=jpg",
+        "author": "JustPhotof Photo & Video",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized/converted to WebP"
+      },
+      "semantic": "Black-and-white child running grassy field, source confirmed.",
+      "approved_by": "Main visual inspection",
+      "source": "https://www.pexels.com/photo/boy-running-on-field-21705250/",
+      "rights": "https://www.pexels.com/license/"
+    },
+    "rabbitBox": {
+      "path": "images/rabbitBox.webp",
+      "width": 684,
+      "height": 380,
+      "sha256": "32fbecd2944a9bc6e555bfe52c1f9816d157aad11ed3bb6686e7e5f9a99eca55",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Realistic rabbit front paws on box, rear paws floor; climbing onto box",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "homeworkPOV": {
+      "path": "images/homeworkPOV.webp",
+      "width": 685,
+      "height": 325,
+      "sha256": "5b4a14ff27e22ed6b97ea1e263b94003a4449b4abf5f9f66e06b4641cb132bfd",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "First-person-like overhead only hands and primary-maths notebook; head excluded",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "rude": {
+      "path": "images/rude.webp",
+      "width": 685,
+      "height": 380,
+      "sha256": "7e94e2168e1b40007c1dd2116f581b286fdece629a0279468c377ce75e81965a",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Boy interrupts/pushes past child at doorway; dismissive gesture",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "friendly": {
+      "path": "images/friendly.webp",
+      "width": 684,
+      "height": 380,
+      "sha256": "7247870156cd66e3e2ca1f1a4054d752be5819f3a16a8ee3025116bf70caf570",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Girl waves and welcomes arriving classmate",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "funny": {
+      "path": "images/funny.webp",
+      "width": 685,
+      "height": 379,
+      "sha256": "57ce23cd4b0bdf6f92642a102150efc44bff86e8d2e9a4cb6bc498e7dd11f61c",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Boy tells story while listeners look at him and laugh",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "shy": {
+      "path": "images/shy.webp",
+      "width": 684,
+      "height": 379,
+      "sha256": "84eb359ab0b69b7c80bd53682233ff7545cd887deeef81bf7cfe86a7cd9a28fd",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Girl at classroom front holds notebook close and looks hesitant",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "helpful": {
+      "path": "images/helpLibrary.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "aca494c598b85302880f605c0c5424c0f53ece55c634dbb7cec25fd7242afde3",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Mustard-shirt older boy crouches and hands a fallen blue book to younger child with backpack; scattered closed books establish helping pick up books.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "calendarTuesday": {
+      "path": "images/calendarTuesday.webp",
+      "width": 684,
+      "height": 379,
+      "sha256": "236ad26c91ca3a54145dafc592ff593de6877142d47adf37e4e7b07d429f2712",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Photographic tear-off calendar, correctly printed Tuesday13",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "fridayFootball": {
+      "path": "images/footballSingle.jpg",
+      "width": 800,
+      "height": 1200,
+      "sha256": "a06197b937a526d2ce686bc72c8f22667b2275dd41ab48292dcaff1ee6e85bac",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/back-view-of-a-boy-playing-football-26871768/",
+        "download_url": "https://images.pexels.com/photos/26871768/pexels-photo-26871768.jpeg",
+        "author": "Eunjin Baek",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Reduced to 1200 px on the long side and re-saved as progressive JPEG; full composition preserved"
+      },
+      "source": "https://www.pexels.com/photo/back-view-of-a-boy-playing-football-26871768/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "One foreground boy actively plays with a visible football on grass; distant passerby on background pavement is not playing and does not share the foreground action.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending",
+      "contextText": [
+        "Friday · Friday · Friday",
+        "Каждую пятницу — снова футбол."
+      ]
+    },
+    "drawTrain": {
+      "path": "images/drawTrain.webp",
+      "width": 443,
+      "height": 369,
+      "sha256": "ffc33d70a90b179f52ad85430628620bb2618f886645c163ed7ed2569e2f1a2c",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Girl Mia actively draws visible locomotive on flat paper; not a physical train",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "benClimb": {
+      "path": "images/benClimb.webp",
+      "width": 444,
+      "height": 369,
+      "sha256": "9c458ddb608ad8c63c08212f36160f552e0fa2041172a608ff5fbdc630eb6d75",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Boy Ben has both hands on trunk and foot on low branch; clearly climbing",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    },
+    "tomHelp": {
+      "path": "images/tomHelp.webp",
+      "width": 444,
+      "height": 369,
+      "sha256": "763bae4bc6f176e9d1ce27c9cdf9d65dc49659ae2abb39fa8a6b7b75cd65e1c4",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "Cropped from coherent photographic series and converted to WebP"
+      },
+      "semantic": "Boy Tom retrieves fallen books with younger child",
+      "approved_by": "Main visual inspection",
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription, explicitly authorised for missing exact scenes",
+      "rights": "Generated for this educational project; fictional people"
+    }
+  },
+  "variants": {
+    "drawHome": {
+      "path": "images/drawHome.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "b5acabba30ee1a1fcb2f11af8b55496953381a7224fc2e7a280d1cc7174e8bb5",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/girl-drawing-on-a-paper-7025504/",
+        "download_url": "https://images.pexels.com/photos/7025504/pexels-photo-7025504.jpeg?w=1200",
+        "author": "Vlada Karpovich",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized and converted to WebP"
+      },
+      "source": "https://www.pexels.com/photo/girl-drawing-on-a-paper-7025504/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Overhead view of a schoolgirl drawing a colourful picture with a pencil at a home art table.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "drawEvent": {
+      "path": "images/drawEvent.webp",
+      "width": 750,
+      "height": 1000,
+      "sha256": "4bc6264aa0fac9d5a1949a6191229807e13bec7ccbf6b8f3be6926c81f7dbcee",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/a-close-up-shot-of-a-girl-drawing-7344942/",
+        "download_url": "https://images.pexels.com/photos/7344942/pexels-photo-7344942.jpeg?w=1200",
+        "author": "Monu Masud",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized and converted to WebP"
+      },
+      "source": "https://www.pexels.com/photo/a-close-up-shot-of-a-girl-drawing-7344942/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Girl at an outdoor cultural event actively draws outlines on white paper with a blue pencil.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "drawGarden": {
+      "path": "images/drawGarden.webp",
+      "width": 667,
+      "height": 1000,
+      "sha256": "267c42ff701b2f28d79848aa54b0381a79c14b842a1f461873626018029478a5",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/a-girl-drawing-in-a-notebook-12886928/",
+        "download_url": "https://images.pexels.com/photos/12886928/pexels-photo-12886928.jpeg?w=1200",
+        "author": "Mizuno K",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized and converted to WebP"
+      },
+      "source": "https://www.pexels.com/photo/a-girl-drawing-in-a-notebook-12886928/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Curly-haired girl at a garden table actively drawing circular shapes in a sketchbook; paper and pencil visible.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "drawCrayon": {
+      "path": "images/drawCrayon.webp",
+      "width": 1000,
+      "height": 667,
+      "sha256": "cd0196951f19c261a67e5705806c22c03aff8a4a3f30874d89aed0f6fa2de759",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/girl-holding-crayon-coloring-white-paper-3891193/",
+        "download_url": "https://images.pexels.com/photos/3891193/pexels-photo-3891193.jpeg?w=1200",
+        "author": "Andrea Piacquadio",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized and converted to WebP"
+      },
+      "source": "https://www.pexels.com/photo/girl-holding-crayon-coloring-white-paper-3891193/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Red-haired girl at indoor table actively drawing small shapes with a pencil on white paper.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "watchBean": {
+      "path": "images/watchBean.webp",
+      "width": 667,
+      "height": 1000,
+      "sha256": "bece805d8639daf49599f0f0b2b5eefe30139f524c4e0785c31a5a8256c08cc3",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/a-boy-sitting-on-a-bean-bag-while-busy-watching-television-12475137/",
+        "download_url": "https://images.pexels.com/photos/12475137/pexels-photo-12475137.jpeg?w=1200",
+        "author": "Atlantic Ambience",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Resized and converted to WebP"
+      },
+      "source": "https://www.pexels.com/photo/a-boy-sitting-on-a-bean-bag-while-busy-watching-television-12475137/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Single boy reclines on a blue bean bag, holding TV remote and looking at visible wall-mounted TV; no games controller.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "footballSingle": {
+      "path": "images/footballSingle.jpg",
+      "width": 800,
+      "height": 1200,
+      "sha256": "a06197b937a526d2ce686bc72c8f22667b2275dd41ab48292dcaff1ee6e85bac",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/back-view-of-a-boy-playing-football-26871768/",
+        "download_url": "https://images.pexels.com/photos/26871768/pexels-photo-26871768.jpeg",
+        "author": "Eunjin Baek",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Reduced to 1200 px on the long side and re-saved as progressive JPEG; full composition preserved"
+      },
+      "source": "https://www.pexels.com/photo/back-view-of-a-boy-playing-football-26871768/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "One foreground boy actively plays with a visible football on grass; distant passerby on background pavement is not playing and does not share the foreground action.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "helpLibrary": {
+      "path": "images/helpLibrary.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "aca494c598b85302880f605c0c5424c0f53ece55c634dbb7cec25fd7242afde3",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Mustard-shirt older boy crouches and hands a fallen blue book to younger child with backpack; scattered closed books establish helping pick up books.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "watchSofa": {
+      "path": "images/watchSofa.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "ba034131545f04ed916c45f197c827f4470fd1a9ecb32f0b1f1f80509f71289d",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Orange-shirt boy alone on grey sofa visibly looks toward an entire TV displaying an animated forest; empty hands, no game controller.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "watchRug": {
+      "path": "images/watchRug.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "88731f9030c8490d624f8fdd262c71e6dee3c1019009086fb82ea4dd0749bdc9",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Green-striped-pyjama boy alone cross-legged on red rug looks toward a visible TV displaying fish; hands on knees, no controller.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "climbPark": {
+      "path": "images/climbPark.webp",
+      "width": 1200,
+      "height": 896,
+      "sha256": "92b235e4359091b4116ac00af6549b0fdcdce3720ddd7d6e3c86cf256d741885",
+      "provenance": {
+        "type": "generated-photographic-scene",
+        "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+        "model": "google-ai-pro/gemini-3.1-flash-image",
+        "route": "OmniRoute -> Antigravity Manager -> Google AI Pro",
+        "license": "Generated for this educational project; fictional people",
+        "changes": "None; generated directly as WebP"
+      },
+      "source": "Google AI Pro Gemini 3.1 Flash Image subscription; project-authorised exact educational scenes",
+      "rights": "Generated for this educational project; fictional people",
+      "semantic": "Red-check-shirt boy climbs low oak tree, both hands on trunk and both shoes on low branch in an upward-moving stance; full body and tree visible.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "rabbitFluffy": {
+      "path": "../images/fluffy_rabbit.jpg",
+      "width": 600,
+      "height": 539,
+      "sha256": "09f550d128430faa200e717440773736f3e66d5634b03d05eb0dc04713c306a0",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified",
+      "semantic": "Fluffy rabbit outdoors, different rabbit portrait for vocabulary recall.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "readWeek": {
+      "path": "../images/girl_reading.jpg",
+      "width": 600,
+      "height": 400,
+      "sha256": "02b8ad4115bce8881022b7d5d5e25abda8e38fbcd48af6c66a18cd15ca5bbcf0",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified",
+      "semantic": "Single girl reading an open book for My Week activity.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "bikeWeek": {
+      "path": "../images/speaking_after_school.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "de750a9db18381f7147a4358656d6e75d0c1a141a746e50ebd36d004f5cdf4bb",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified",
+      "semantic": "Helmet-wearing child rides a bicycle outdoors; wheels and rider visible.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "footballWeek": {
+      "path": "../images/children_playing_football.jpg",
+      "width": 600,
+      "height": 450,
+      "sha256": "8b9b88b724c49318971083f130bc52c2b3ce5e425f8acec973c01a9f9b9ca61f",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified",
+      "semantic": "Several children actively play football together; suitable generic/plural My Week activity.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "homeworkWeek": {
+      "path": "../images/hub_grammar.jpg",
+      "width": 600,
+      "height": 338,
+      "sha256": "f2a124ce9e46610cf459ead21906654cf2d6ac5f129b71f8a8b6707923833eac",
+      "provenance": {
+        "type": "owner-original-photograph",
+        "source": "Owner supplied original diagnostic material; same existing public file",
+        "license": "Reuse authorised by owner; upstream rights not independently verified",
+        "changes": "None"
+      },
+      "source": "Owner supplied original diagnostic material; same existing public file",
+      "rights": "Reuse authorised by owner; upstream rights not independently verified",
+      "semantic": "Girl works in a school workbook at a desk; suitable doing homework, not drawing.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    },
+    "drawPink": {
+      "path": "images/drawPink.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "f14442c4908816e2aab7c4d343e792fad200b45ebf7c845bb137759b1b51461f",
+      "provenance": {
+        "type": "licensed-photograph",
+        "source": "https://www.pexels.com/photo/a-girl-drawing-using-a-pink-colored-pencil-11286163/",
+        "download_url": "https://images.pexels.com/photos/11286163/pexels-photo-11286163.jpeg",
+        "author": "Anna Shvets",
+        "license": "https://www.pexels.com/license/",
+        "changes": "Reduced to 1200 px on the long side and re-saved as progressive JPEG; full composition preserved"
+      },
+      "source": "https://www.pexels.com/photo/a-girl-drawing-using-a-pink-colored-pencil-11286163/",
+      "rights": "https://www.pexels.com/license/",
+      "semantic": "Girl in pink sweatshirt actively draws her own visible outlines on white paper with a pink coloured pencil; pencil tip and marks visible, no paint or preprinted colouring page.",
+      "approved_by": "Image implementer visual inspection; independent verifier pending"
+    }
+  },
+  "contexts": {
+    "words-nine-cards": {
+      "rabbit": "rabbitFluffy"
+    },
+    "words-find-rabbit": {
+      "rabbit": "rabbitFluffy"
+    },
+    "academy-now": {
+      "draw": "drawEvent",
+      "watch": "watchSofa"
+    },
+    "academy-grow-she": {
+      "draw": "drawEvent"
+    },
+    "academy-assertion": {
+      "draw": "drawEvent"
+    },
+    "academy-build-tv": {
+      "watch": "watchSofa"
+    },
+    "academy-question-she": {
+      "draw": "drawEvent"
+    },
+    "academy-question-he": {
+      "watch": "watchSofa"
+    },
+    "academy-answer-yes": {
+      "draw": "drawEvent",
+      "watch": "watchSofa"
+    },
+    "academy-answer-no": {
+      "draw": "drawEvent",
+      "watch": "watchSofa"
+    },
+    "actions-gap-i": {
+      "draw": "drawGarden"
+    },
+    "actions-gap-he": {
+      "watch": "watchRug"
+    },
+    "actions-gap-rabbit": {
+      "watch": "watchRug"
+    },
+    "actions-build-she": {
+      "draw": "drawGarden",
+      "watch": "watchRug"
+    },
+    "actions-mistake-missing": {
+      "watch": "watchRug"
+    },
+    "actions-mistake-she": {
+      "draw": "drawGarden"
+    },
+    "actions-question-boy": {
+      "draw": "drawGarden",
+      "watch": "watchRug"
+    },
+    "actions-question-girls": {
+      "watch": "watchRug"
+    },
+    "actions-extra-builder": {
+      "draw": "drawGarden",
+      "benClimb": "climbPark"
+    },
+    "week-activities": {
+      "draw": "drawPink",
+      "watch": "watchBean",
+      "read": "readWeek",
+      "bike": "bikeWeek",
+      "football": "footballWeek",
+      "homework": "homeworkWeek"
+    },
+    "week-now-contrast": {
+      "watch": "watchBean"
+    },
+    "week-reading-now": {
+      "watch": "watchBean",
+      "read": "readWeek"
+    },
+    "personality-five-stories": {
+      "kind": "tomHelp"
+    },
+    "personality-helpful": {
+      "helpful": "tomHelp"
+    },
+    "personality-match-help": {
+      "helpful": "tomHelp"
+    }
+  },
+  "reusePolicy": {
+    "selection": "Deterministic task-context lookup; no random choice. Each task and its remediation retain the same photograph.",
+    "drawing": "Word Rescue, Academy, Action Detective, My Week and Exit use five distinct photographs. Named Mia story retains drawTrain.",
+    "watching": "Academy, Action Detective and My Week use three distinct new TV compositions; Word Rescue extra retains the original father/son photo.",
+    "characters": "Named Mia/Ben/Tom retain drawTrain/benClimb/tomHelp through Personality and Adventure. Generic climb/help use separate children and backgrounds.",
+    "comparisons": "Consecutive positive/negative/question comparisons within one teaching context intentionally reuse its photograph; same context remediation does too.",
+    "otherActions": "Core football/read/bike/homework images may recur in same-context comparison tasks; My Week uses distinct inspected owner originals.",
+    "exit": "Drawing Exit uses its own photograph; generic helpful-boy Exit reuses the vocabulary helping scene to assess the quality, without the story name."
+  }
+}

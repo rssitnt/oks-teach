@@ -1,0 +1,474 @@
+{
+  "schemaVersion": 1,
+  "note": "Lesson-4 images are AI-generated illustrations (no real people, no third-party photos, so no credits page needed). Lesson-4 reuses the lesson engine styles; other pictures may reuse lesson-2 photos described in ../lesson-2/assets.json.",
+  "images": {
+    "food-apple": {
+      "path": "images/food-apple.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 7076,
+      "sha256": "98b9452a208bfd474217591eea90a1360459680870ad76c471a41b9020497a83",
+      "alt": "Одно красное яблоко",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. one shiny red apple on a plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-banana": {
+      "path": "images/food-banana.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 5600,
+      "sha256": "20bfa3e49199e89bdf51483b6a0d2d5f01ead696eac7bd860dd82c67c85fe9fc",
+      "alt": "Жёлтый банан",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. one yellow banana on a plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-beans": {
+      "path": "images/food-beans.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 16326,
+      "sha256": "356794268a4540f74488447f7bcbc05ca219c824f9b27eae3f2ce662040dbcfe",
+      "alt": "Миска фасоли",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-biscuits": {
+      "path": "images/food-biscuits.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 19394,
+      "sha256": "5d6a8d90102955a1dfea9889b8253329bc044c97d374156fda56125037aa8485",
+      "alt": "Стопка золотистого печенья",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-bread": {
+      "path": "images/food-bread.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 18228,
+      "sha256": "86c06b94171f143d393e33f45720af57f357ec26f14a22229d8853e5b6d99762",
+      "alt": "Батон хлеба",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a fresh loaf of bread on a plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-butter": {
+      "path": "images/food-butter.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 12730,
+      "sha256": "cfafd303ae2a59d4430a784667196a18617ab76fce000081491d10ab4a222771",
+      "alt": "Пачка жёлтого масла",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a yellow pack of butter on a small plate, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-cheese": {
+      "path": "images/food-cheese.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 6398,
+      "sha256": "3ada4c1b0127b3fa2a5358320cdd9357b441110b916e3e72c8b3a7058e28956e",
+      "alt": "Кусок жёлтого сыра",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a wedge of yellow cheese on a plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-chicken": {
+      "path": "images/food-chicken.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 29820,
+      "sha256": "250ba5e4f24e8b1e3cb3165f1affe15ef202952e98a1a8914ad376e9e72b9671",
+      "alt": "Жареная курица на тарелке",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a tasty roast chicken on a plate, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-coconut": {
+      "path": "images/food-coconut.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 26256,
+      "sha256": "17d1abb963e5ccbf830f2a1e4fa5747de6d9662a77f128642bfa02fa23f46825",
+      "alt": "Кокос и половинка кокоса с белой мякотью",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-cupboard": {
+      "path": "images/food-cupboard.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 21382,
+      "sha256": "fe53048197eef007ef07a504f05514515b9d1b5f86a417962eaef00ad0241d94",
+      "alt": "Деревянный кухонный шкаф с посудой",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-eggs": {
+      "path": "images/food-eggs.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 24348,
+      "sha256": "8a21b9b04f9db791373413cfd11eab358f70f1c0b3464207daebf57d0961ebe0",
+      "alt": "Куриные яйца в корзинке",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. three white eggs in a small basket, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-flour": {
+      "path": "images/food-flour.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 15386,
+      "sha256": "6bfeece0965315818b025e07e264f9a35411b483539cba707c96b3008e0f3b46",
+      "alt": "Деревянная миска с белой мукой",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-fridge": {
+      "path": "images/food-fridge.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 13258,
+      "sha256": "ff71e1117b6af55ff4f0e583a7c1ab29f3904fc088ebf965ab769a49619d38bd",
+      "alt": "Белый кухонный холодильник",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-icecream": {
+      "path": "images/food-icecream.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 9554,
+      "sha256": "009ccf493b8b01dff2c0f62c1417ce3eea0d73132da720b5b81b12571f665fa1",
+      "alt": "Мороженое в рожке",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. an ice cream cone with two scoops, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-juice": {
+      "path": "images/food-juice.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 21654,
+      "sha256": "2dd6bf04253609132580c6f23712538778ecb151b22c5e6e8ca112857b66e47b",
+      "alt": "Стакан апельсинового сока",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a glass of orange juice, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-lemon": {
+      "path": "images/food-lemon.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 14118,
+      "sha256": "c9fe4f1bfb3a08da97d994b164b5fe60a2b4cff5ea55c7b8bd761fa5127f48b1",
+      "alt": "Жёлтый лимон и половинка лимона",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-mango": {
+      "path": "images/food-mango.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 14058,
+      "sha256": "60574c2cc709bb2322cf27a7f28f66779778b023a26d2aa80d28dc62a89859e7",
+      "alt": "Спелый манго — жёлтый, красный и зелёный",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-milk": {
+      "path": "images/food-milk.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 17274,
+      "sha256": "f0e3098016960a8e7f37125a561fa9bede8e29ab782864a5e8eff4316a8ed978",
+      "alt": "Стакан молока и кувшин",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a glass of milk and a small milk jug, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-oliveoil": {
+      "path": "images/food-oliveoil.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 16856,
+      "sha256": "a15ffbed425018e05a0fde0855bc462e97c6c4f6f03ca75e2412ecbe91fb9810",
+      "alt": "Кувшин золотого оливкового масла",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-oranges": {
+      "path": "images/food-oranges.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 17954,
+      "sha256": "c5f1e821a7a5175d0e221364e48036a87709427e566f2d7673b9620947ddbc1e",
+      "alt": "Три оранжевых апельсина",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-pineapple": {
+      "path": "images/food-pineapple.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 23166,
+      "sha256": "19181f3be4236f1a6fca26cc19b72b0ba2534071a2abaadbf5f8d7179dcca028",
+      "alt": "Целый ананас с зелёными листьями",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-potatoes": {
+      "path": "images/food-potatoes.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 18574,
+      "sha256": "67596188520ab185a228007f713f7a09b9812ad34cbb1db2f4d927c2bdc85188",
+      "alt": "Несколько коричневых картофелин",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-saltpepper": {
+      "path": "images/food-saltpepper.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 16752,
+      "sha256": "4c85fac6d7962efc715d9fe68e2308fbe126a786423b3bb547d7c1387fe43df2",
+      "alt": "Стеклянная солонка и деревянная перечница",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-sugar": {
+      "path": "images/food-sugar.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 12898,
+      "sha256": "7f18c9afcef18c7b81bc0c7ecc3c39cd6185cbc629d3eee7a95f01baaa846ff4",
+      "alt": "Миска белого сахара с деревянной ложкой и кубиками",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Owner-provided AI illustration (generator not recorded; style matches the lesson-four set)",
+        "date": "2026-10-25",
+        "prompt": "Owner-provided image; prompt not recorded",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1448x1086 PNG to 640x480 WebP q78",
+        "license": "Provided by the owner for this project; no third-party material"
+      },
+      "approved_by": "Owner provided the image directly; single-subject illustration, no people, no stray text (checked 2026-10-25)"
+    },
+    "food-sweets": {
+      "path": "images/food-sweets.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 13202,
+      "sha256": "81925a6a18b8d87f4b284fb9c2a4be6e53bea8f5b714359cec6bafbcea7cd8ba",
+      "alt": "Разноцветные конфеты",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. a small pile of colorful wrapped candies, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    },
+    "food-tomatoes": {
+      "path": "images/food-tomatoes.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 12242,
+      "sha256": "0e7b80538af430bb5602cbfb0b07487493cfc797bbb31a08a78ba5dd04c63ad2",
+      "alt": "Спелые красные помидоры",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, no text, no letters, no logos, no brands, no speech bubbles, wide composition. three ripe red tomatoes, plain light background",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Single-object food illustration, no people; stray-text check pending owner review"
+    }
+  }
+}

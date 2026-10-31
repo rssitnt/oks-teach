@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "note": "Lesson-5 images are AI-generated original illustrations in the style of the cartoon Mimimishki (round, cute bears): one bear in a vest with diamonds, farm animals and scenes. Frames of the cartoon are not copied. No real people or third-party photos, so no credits page needed. Emoji are no longer used as illustrations.",
+  "images": {
+    "animal-cow": {
+      "path": "images/animal-cow.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 34232,
+      "sha256": "a75805f58c4fd3190927381008f39e4e23c859c2deeec372959d0b1e32647d4e",
+      "alt": "Мишка в жилетке с ромбами и пятнистая корова на зелёном лугу",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и корова на лугу",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-horse": {
+      "path": "images/animal-horse.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 33578,
+      "sha256": "1a5e3a9b779c55c4b069805ef221a6cd1da6b3c7b505cb32594aab525304d9ae",
+      "alt": "Мишка в жилетке с ромбами и рыжая лошадь у деревянной изгороди",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и лошадь у изгороди",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-sheep": {
+      "path": "images/animal-sheep.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 52450,
+      "sha256": "4349466d4a665a4eaa18d25d94602573764d3103b5ec0f9c18b921c215164e5e",
+      "alt": "Мишка в жилетке с ромбами и белая пушистая овца на лугу",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и овца на лугу",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-pig": {
+      "path": "images/animal-pig.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 27448,
+      "sha256": "2cc06720d13e0d69328e8f46ffd061173df20acb7d911183c5ae4aea34bf6bb3",
+      "alt": "Мишка в жилетке с ромбами и розовая свинья у деревянного загона",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и свинья у загона",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-goat": {
+      "path": "images/animal-goat.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 44718,
+      "sha256": "642af72ed55143b8655ca977c8c4f05cf2b225e2205fe7815d20784e956a5fb8",
+      "alt": "Мишка в жилетке с ромбами и серо-белая коза с рожками на лугу",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и коза на лугу",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-hen": {
+      "path": "images/animal-hen.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 24534,
+      "sha256": "be2033b97e5116595ae11f7cc8118bddf71d3a92d6746c703026357fb80b3e28",
+      "alt": "Мишка в жилетке с ромбами и рыжая курица около курятника",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и курица у курятника",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-duck": {
+      "path": "images/animal-duck.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 34170,
+      "sha256": "04c9766f0bdbb8242f3263dee01b6e858eba7d3f96332dc51f97b16f1c9d00fd",
+      "alt": "Мишка в жилетке с ромбами и жёлтая утка у пруда",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и утка у пруда",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "animal-donkey": {
+      "path": "images/animal-donkey.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 23546,
+      "sha256": "68cfd5122bb9d558f5b4a1e54697b57a8686eb8c005ba5b01725e2656aa19f2d",
+      "alt": "Мишка в жилетке с ромбами и серый осёл с длинными ушами у сарая",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка в жилетке и осёл у сарая",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "product-milk": {
+      "path": "images/product-milk.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 25722,
+      "sha256": "597ca75e607fdff83a5fd30c3cca74a013540a07256aa7d1beaeeafa72b5f31e",
+      "alt": "Мишка за деревянным столом: кувшин и стакан молока, рядом корова",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка, кувшин и стакан молока, корова",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "product-eggs": {
+      "path": "images/product-eggs.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 30538,
+      "sha256": "49aa63b62c506b9a402c297a3243747f27ebe4d77c6d4c42b5c4067ff94716b2",
+      "alt": "Мишка держит корзинку с яйцами, рядом курица",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка с корзинкой яиц и курица",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "product-wool": {
+      "path": "images/product-wool.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 52018,
+      "sha256": "0644c0a9ddaf250c2c5b57619e9071028f7a9d7106065dfb028b6e5d5da256b0",
+      "alt": "Мишка вяжет полосатый шарф из цветных клубков шерсти, рядом пушистая овца",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: мишка вяжет из шерсти, рядом овца",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "season-spring": {
+      "path": "images/season-spring.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 53530,
+      "sha256": "0e4fce6a70e091b63d7e524d3dcd409f4dd3b6087ecb16c4747bcfbae187a101",
+      "alt": "Весна: мишка среди цветущих деревьев и цветов, над лугом радуга",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: весна, цветущие деревья и радуга",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "season-summer": {
+      "path": "images/season-summer.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 30850,
+      "sha256": "1cf6b0cd6cc8c94ff7cb0a1d635122d148058a0c1529587913d9c46a9f46d626",
+      "alt": "Лето: мишка на берегу моря, рядом арбуз и спасательный круг, светит солнце",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: лето, море, арбуз и солнце",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "season-autumn": {
+      "path": "images/season-autumn.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 37134,
+      "sha256": "c4d6322945ea883eb024e231b3487bea248c95651730c3381ab33e447848eb3d",
+      "alt": "Осень: мишка с красным зонтиком в резиновых сапогах среди жёлтых листьев и луж",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: осень, дождь, зонт и жёлтые листья",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "season-winter": {
+      "path": "images/season-winter.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 24468,
+      "sha256": "28e9ed20460e89af20503c48474f78ca4f4b47edb3a97419fda72c3b6368e75a",
+      "alt": "Зима: мишка в шапке и шарфе в снегу, рядом снеговик и санки",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: зима, снег, снеговик и санки",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "much-cows": {
+      "path": "images/much-cows.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 31798,
+      "sha256": "c5554273cbf3f665692433398462fed45b12f4c046068349b4f7b623d4081741",
+      "alt": "Много коров и телят пасутся на большом лугу, мишка машет рукой, вдали красный амбар",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: много коров на лугу",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "much-milk": {
+      "path": "images/much-milk.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 31774,
+      "sha256": "ce1c9b4907b2d4b8924c59950d70212bdb78040e98e9d988dfda2885f31dad38",
+      "alt": "Мишка возле деревянного ведра и большого кувшина, полных молока, позади корова",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: много молока в ведре и кувшине",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "much-apples": {
+      "path": "images/much-apples.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 47692,
+      "sha256": "9e35b18a014c870d3c878e8478a3b0b3d7409a2e4768e4a1cc5959935cbc7614",
+      "alt": "Мишка в яблоневом саду среди ящиков, полных красных яблок",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: много яблок в ящиках",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "much-flour": {
+      "path": "images/much-flour.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 28830,
+      "sha256": "5d3471993673317f640312c2931c0dd4f0e3a30ecf32259ae8204c70054a526f",
+      "alt": "Мишка в кухне замешивает тесто, вокруг облако белой муки и мешки с мукой",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: много муки на кухне",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "goldi-wood": {
+      "path": "images/goldi-wood.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 49464,
+      "sha256": "8ad0c32d99a0a7aec9e95e726215d71f7695d09c34889a5884be8fffcbf4c0d8",
+      "alt": "Златовласка с рюкзачком идёт по лесной тропинке, вдали домик медведей",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: Златовласка идёт по лесу",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "goldi-house": {
+      "path": "images/goldi-house.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 56968,
+      "sha256": "ed5210090637bec9cf29536fa9cc61eddd9c8fb0d6ece26b789bb208509a4cad",
+      "alt": "Три медведя — мама, папа и малыш — у своего лесного домика",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: три медведя у лесного домика",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "goldi-porridge": {
+      "path": "images/goldi-porridge.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 34644,
+      "sha256": "3a94ff1e7d8be6272f4f245591a077ce106e9c8f4dfb2a7f1c940a7793060163",
+      "alt": "Три медведя за столом, перед каждым тарелка горячей каши с паром",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: три медведя и три тарелки каши",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "goldi-bears": {
+      "path": "images/goldi-bears.webp",
+      "width": 800,
+      "height": 597,
+      "bytes": 44756,
+      "sha256": "6b894e5981cca727816bc30b462153b59546c9a9dab32c8f254fb3a68eaad01b",
+      "alt": "Семья медведей за завтраком у окна в бревенчатом доме",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: медведи завтракают за столом",
+        "aspect_ratio": "4:3",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "hero-lesson5": {
+      "path": "images/hero-lesson5.webp",
+      "width": 1280,
+      "height": 714,
+      "bytes": 41736,
+      "sha256": "6c76e32fef2348f4bf3a985a5478f9691feae6e530dc11bb4b6b04eec02fcffe",
+      "alt": "Три мишки — коричневый, серый и кремовый — машут рукой на весеннем лугу, на фоне красный амбар",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: три мишки на ферме",
+        "aspect_ratio": "16:9",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    },
+    "bg-lesson5": {
+      "path": "images/bg-lesson5.webp",
+      "width": 1280,
+      "height": 714,
+      "bytes": 17278,
+      "sha256": "5a368f95a93362b408cc8893aa6c8f2f227d5b6e66b1639fccd17db14843984b",
+      "alt": "Светлый фон с мишками по краям и пустым центром",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "google/gemini-nano-banana-2.1 via OpenRouter",
+        "date": "2026-10-26",
+        "prompt": "Children's 3D cartoon in the style of Mimimishki (round cute bears), no text, no logos: фон",
+        "aspect_ratio": "16:9",
+        "changes": "Converted to WebP",
+        "license": "Generated for the owner; no third-party material",
+        "note": "в стиле мультфильма Мимимишки, оригинальные изображения, без копирования кадров"
+      },
+      "approved_by": "Viewed by the author; stray-text check pending owner review"
+    }
+  }
+}

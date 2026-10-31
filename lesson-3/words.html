@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>SPOTLIGHT · Урок 3 — Тренажёр слов</title>
+  <meta name="description" content="Тренажёр слов к уроку 3 (Spotlight 4): карточки, быстрый выбор, собери слово и пары.">
+  <link rel="icon" href="../favicon.svg?v=4c1187ba76b8" type="image/svg+xml">
+  <link rel="icon" type="image/png" sizes="96x96" href="../favicon-96.png?v=a3e8b90cff84">
+  <link rel="apple-touch-icon" sizes="192x192" href="../apple-touch-icon.png?v=76e1a9312aab">
+  <script>try { document.documentElement.dataset.theme = localStorage.getItem('oks.lesson3.theme') === 'dark' ? 'dark' : 'light'; } catch (_) { document.documentElement.dataset.theme = 'light'; }</script>
+  <link rel="stylesheet" href="words.css?v=06c203afe97e">
+  <script defer src="words-data.js?v=43243118039b"></script>
+  <script defer src="words.js?v=3a614c9d0ced"></script>
+</head>
+<body>
+  <a class="skip-link" href="#panel">К тренажёру</a>
+  <header class="topbar">
+    <a class="brand" href="index.html aria-label="SPOTLIGHT — главное меню"><span class="brand-mark">SPOTLIGHT</span><span class="brand-title">Урок 3 · Слова<small>Английский язык · Spotlight 4</small></span></a>
+    <nav class="top-actions" aria-label="Переходы">
+      <a class="btn" href="index.html>Главное меню</a>
+      <a class="btn" href="lesson-3/index.html>К уроку 3</a>
+      <button id="theme-toggle" type="button"></button>
+      <button id="teacher-toggle" type="button" class="quiet" aria-pressed="false">Режим учителя</button>
+    </nav>
+  </header>
+  <div id="storage-warning" class="storage-warning" role="status" hidden></div>
+  <main class="wrap">
+    <section class="summary" aria-label="Общий прогресс">
+      <p id="summary-text" aria-live="polite"></p>
+      <div class="progress-bar" role="progressbar" aria-label="Выучено слов" aria-valuemin="0" aria-valuemax="100"><span id="summary-bar"></span></div>
+      <button id="reset" type="button" class="quiet">Сбросить</button>
+    </section>
+    <div id="controls">
+      <div class="modes" role="group" aria-label="Тренировка" id="modes"></div>
+      <div class="modes filters" role="group" aria-label="Какие слова" id="filters"></div>
+    </div>
+    <div id="panel" class="panel" tabindex="-1"></div>
+    <div id="live" class="sr-only" role="status" aria-live="polite"></div>
+  </main>
+  <dialog id="reset-dialog" aria-labelledby="reset-title">
+    <h2 id="reset-title">Сбросить весь прогресс?</h2>
+    <p>Все отметки «знаю» и «повторить» на этом устройстве будут стёрты.</p>
+    <div class="button-row"><button type="button" id="cancel-reset">Оставить</button><button type="button" class="danger" id="confirm-reset">Да, сбросить</button></div>
+  </dialog>
+  <noscript><p class="no-script">Для тренажёра нужен JavaScript. Включите его в настройках браузера.</p></noscript>
+</body>
+</html>

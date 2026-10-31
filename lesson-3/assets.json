@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "note": "Lesson-3 images are AI-generated illustrations (no real people, no third-party photos, so no credits page needed). Other lesson-3 pictures reuse lesson-2 photos described in ../lesson-2/assets.json.",
+  "images": {
+    "trait-shy": {
+      "path": "images/trait-shy.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 32408,
+      "sha256": "ca8c33234ff2c12b2e4a89964a44929e3790ac1d324f79a59d4135b8dbd76c6a",
+      "alt": "Девочка стоит перед классом, прижимает тетрадь и смотрит вниз",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A shy girl stands in front of the classroom holding her notebook tight to her chest, looking down, classmates watching kindly.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-rude": {
+      "path": "images/trait-rude.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 32412,
+      "sha256": "b6e438715de4ef87769f899f6d742ea771c5162f60865fa9f2d6b956c90b2909",
+      "alt": "Мальчик отбирает мяч и грубо отталкивает расстроенную девочку",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A boy snatches a ball and pushes his way past, frowning, saying go away to a surprised younger girl in a school yard; the girl looks upset.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-friendly": {
+      "path": "images/trait-friendly.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 75408,
+      "sha256": "1fa83404d54a61f7832dd1eae9074a91e5ee74c2e9a730e350645b6dbd072631",
+      "alt": "Девочка улыбается и машет рукой новой однокласснице у калитки",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A smiling girl waves and greets a new girl with a backpack at a plain wooden school gate in a garden; no signs, no writing anywhere; both happy, welcoming mood.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-funny": {
+      "path": "images/trait-funny.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 58326,
+      "sha256": "a5fd33b17cbaa4aaaf465bce6445246d009d8ca2734a766094ff4d2f69581bfe",
+      "alt": "Мальчик рассказывает шутку, дети вокруг смеются",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A boy stands in front of classmates telling a joke with a funny face and arms spread, the children laugh happily.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-nervous": {
+      "path": "images/trait-nervous.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 44812,
+      "sha256": "ebec24e9577343b334e3b3f935d95254043768d9e5a1c53bdb3dc97e7fd20288",
+      "alt": "Мальчик за партой волнуется и кусает губу",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A boy sits at his desk before a test or presentation, biting his lip with worried face and wide eyes, hands fidgeting, classmates around.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-silly": {
+      "path": "images/trait-silly.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 44298,
+      "sha256": "a3360205ad2b8c7294132fe82e0dfb92377918de4e2fac64a8aea22e93e97171",
+      "alt": "Мальчик с ведром на голове корчит рожицу, девочка хихикает",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A boy wearing a bucket as a hat and pulling a silly face, goofing around in a living room, a girl giggling beside him.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-kind": {
+      "path": "images/trait-kind.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 30168,
+      "sha256": "74b0b5de987cd83ff00fb2724adbbfd20f6170caf1941ae96695bb7eb0a70795",
+      "alt": "Мальчик улыбается и делится яблоком с одноклассницей",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A kind boy in a school yard smiles warmly and shares a red apple with a girl standing next to him; both children look gentle and happy, calm sunny day, empty simple background.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "trait-quiet": {
+      "path": "images/trait-quiet.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 28708,
+      "sha256": "746dcc6d3c3d29a5d64dad16e6070da46c7cd7be2bd37fa02461970e810c4ccc",
+      "alt": "Девочка тихо читает на подушке, приложив палец к губам",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A quiet girl sits on a soft cushion in a cozy corner of a room and reads a closed picture book with a plain cover, one finger lightly on her lips, calm peaceful expression, soft daylight, empty simple background.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "week-monday": {
+      "path": "images/week-monday.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 40160,
+      "sha256": "c754fb960fff1da6f50dc9544ac1ab328cb86d7f812a7d54dbeeedbdfb09c0c2",
+      "alt": "Девочка в наушниках слушает музыку на диване",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A girl sitting on a sofa with big headphones listening to music with eyes closed and a smile, cozy room.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "week-tuesday": {
+      "path": "images/week-tuesday.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 57416,
+      "sha256": "1667e9efe8a790bac2e8e0945eb6b2ac4f91fef266bcfa918740c86a2b54c978",
+      "alt": "Девочка в шлеме едет на велосипеде по парку",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A girl riding a bicycle along a park path on a sunny day, happy, helmet on.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "week-wednesday": {
+      "path": "images/week-wednesday.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 48430,
+      "sha256": "39bf1049d17b40ca44bb10d1d50af411ca9fa206f31116e52e38f16cdfae4e30",
+      "alt": "Мальчик лежит на ковре и читает книгу",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A boy lying on a rug reading a book in a cozy room, calm.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "week-thursday": {
+      "path": "images/week-thursday.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 35562,
+      "sha256": "f6d943af7db966a035f29fd54030d812b6c24e158a8cfdac39312799fbb302b9",
+      "alt": "Мальчик на диване играет в видеоигру с джойстиком",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. A boy sitting on a sofa playing a video game with a controller, TV showing abstract colorful game shapes without text.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    },
+    "week-friday": {
+      "path": "images/week-friday.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 41194,
+      "sha256": "012887995117500b054db7519e775a731459bfee7baa5352b3ca9de449c9641e",
+      "alt": "Два мальчика играют в футбол на лугу",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "Gemini 3.1 Flash Image (google-ai-pro/gemini-3.1-flash-image) via gemini-imagegen MCP",
+        "date": "2026-10-22",
+        "prompt": "Soft children's book illustration, gentle watercolor and colored-pencil look, warm pastel colors, clean simple background, friendly cartoon children aged 8-10 with natural faces, correct hands with five fingers, one scene only, wide composition. No text, no letters, no logos, no brands, no speech bubbles. Two boys playing football on a grassy field, one kicking the ball, sunny afternoon.",
+        "aspect_ratio": "4:3",
+        "changes": "Resized from 1200x896 PNG to 640x480 WebP q78",
+        "license": "Generated for the owner; no third-party material"
+      },
+      "approved_by": "Visual inspection: no stray text, normal faces and hands"
+    }
+  }
+}
